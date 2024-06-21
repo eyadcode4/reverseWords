@@ -7,8 +7,8 @@ function reverseWords(str) {
     return reversedStr;
 }
 
-let inputString1 = "Hello World.";
-let inputString2 = "Hi There.";
+let sentence1 = "Hello World.";
+let sentence2 = "Hi There.";
 
-console.log(reverseWords(inputString1)); 
-console.log(reverseWords(inputString2)); 
+console.log(reverseWords(sentence1)); 
+console.log(reverseWords(sentence2)); 
